@@ -1,2 +1,5 @@
 # dpm-flow-match
-a demo show how to apply dpm on flow match model
+------
+
+## usage:
+`python flux_dpm.py ${num_inference_steps}`
